@@ -1,0 +1,16 @@
+[
+  {
+    "topic": "Python Programming",
+    "resources": [
+      { "type": "YouTube", "name": "Telusko", "url": "https://www.youtube.com/@Telusko" },
+      { "type": "Website", "name": "W3Schools", "url": "https://www.w3schools.com/python/" }
+    ]
+  },
+  {
+    "topic": "Physics",
+    "resources": [
+      { "type": "YouTube", "name": "Physics Wallah", "url": "https://www.youtube.com/@PhysicsWallah" },
+      { "type": "Website", "name": "Khan Academy", "url": "https://www.khanacademy.org/science/physics" }
+    ]
+  }
+]
